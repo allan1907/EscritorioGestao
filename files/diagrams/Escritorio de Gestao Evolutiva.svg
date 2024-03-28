@@ -31,7 +31,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 544, 42)" id="gfx-6167ae5f-a77e-4f6b-ba51-97eb7c4ed53b" display="block" class="djs-element djs-shape" data-element-id="6167ae5f-a77e-4f6b-ba51-97eb7c4ed53b">
+    <g transform="matrix(1, 0, 0, 1, 544, 42)" id="gfx-fcf7a19b-0718-4c5f-b72c-35046f86f23b" display="block" class="djs-element djs-shape" data-element-id="fcf7a19b-0718-4c5f-b72c-35046f86f23b">
       <g class="djs-visual">
         <rect x="0" y="0" width="300" height="40" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="300" height="35" class="djs-svg-text">
@@ -52,12 +52,12 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 380, 285)" id="gfx-1cd588c0-a5c1-44d8-93c0-f1b8285dc6ac" display="block" class="djs-element djs-shape" data-element-id="1cd588c0-a5c1-44d8-93c0-f1b8285dc6ac">
+    <g transform="matrix(1, 0, 0, 1, 380, 284)" id="gfx-8e0bc6a7-2e42-4a44-a5d3-ea524992863e" display="block" class="djs-element djs-shape" data-element-id="8e0bc6a7-2e42-4a44-a5d3-ea524992863e">
       <g class="djs-visual">
         <rect x="0" y="0" width="240" height="33" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="240" height="28" class="djs-svg-text">
-          <text font-family="'Segoe UI'" font-size="14.6096px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:#366092;">
-            <tspan x="13.31599" y="17.75">Grupos de Processos de Gestão</tspan>
+          <text font-family="'Segoe UI'" font-size="15.9378px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:#366092;">
+            <tspan x="24.60289" y="18.5">Processos de Sustentação</tspan>
           </text>
         </svg>
       </g>
@@ -73,7 +73,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 752, 285)" id="gfx-3c8a3ceb-c0ed-4ca1-a3a0-0908840dd71a" display="block" class="djs-element djs-shape" data-element-id="3c8a3ceb-c0ed-4ca1-a3a0-0908840dd71a">
+    <g transform="matrix(1, 0, 0, 1, 762, 285)" id="gfx-47595f41-6f0a-4a1a-98c5-956b9574ea7c" display="block" class="djs-element djs-shape" data-element-id="47595f41-6f0a-4a1a-98c5-956b9574ea7c">
       <g class="djs-visual">
         <rect x="0" y="0" width="220" height="40" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="220" height="35" class="djs-svg-text">
@@ -576,7 +576,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M1038 520 L1038 572 C1038 572 1038 578 1032 578 L990 578" marker-end="url(#arrowSecuenceFlow117fdcfb-32b7-4df8-9517-c45ed1f1585c)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M1041 520 L1041 572 C1041 572 1041 578 1035 578 L990 578" marker-end="url(#arrowSecuenceFlow117fdcfb-32b7-4df8-9517-c45ed1f1585c)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -618,7 +618,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M677 439 L677 385 C677 385 677 379 683 379 L720 379" marker-end="url(#arrowSecuenceFlowf9d71d7b-b827-4a9f-90f7-c0602be7fe90)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M671 439 L671 385 C671 385 671 379 677 379 L720 379" marker-end="url(#arrowSecuenceFlowf9d71d7b-b827-4a9f-90f7-c0602be7fe90)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
